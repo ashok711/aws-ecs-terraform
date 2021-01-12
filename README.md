@@ -9,7 +9,7 @@ This is the example of creating a simple infrastructure using Terraform and AWS 
 
 ## How to create the infrastructure?
 This example implies that you have already AWS account and Terraform CLI installed.
-1. `git clone https://github.com/mashun4ek/ecs_terraform_workshop.git`
+1. `git clone https://github.com/ashok711/aws-ecs-terraform.git`
 2. cd ecs_terraform_workshop
 3. terraform init
 4. terraform plan
